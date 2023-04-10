@@ -1,0 +1,7 @@
+D:\ooplab\businessCRUD\businessCRUD\obj\Debug\businessCRUD.csproj.AssemblyReference.cache
+D:\ooplab\businessCRUD\businessCRUD\obj\Debug\businessCRUD.csproj.CoreCompileInputs.cache
+D:\ooplab\businessCRUD\businessCRUD\bin\Debug\businessCRUD.exe.config
+D:\ooplab\businessCRUD\businessCRUD\bin\Debug\businessCRUD.exe
+D:\ooplab\businessCRUD\businessCRUD\bin\Debug\businessCRUD.pdb
+D:\ooplab\businessCRUD\businessCRUD\obj\Debug\businessCRUD.exe
+D:\ooplab\businessCRUD\businessCRUD\obj\Debug\businessCRUD.pdb
